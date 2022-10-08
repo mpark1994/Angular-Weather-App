@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## How to work the Weather App
+
+Open the webpage via command `ng serve -o`, then type in the city of the place you want to check the weather for. This will make an API GET request and bring back the data related to the city.
+
+NOTE: As a developmental project, there is a limit to how many API GET requests can be made per month. If maxed out, the webpage will no longer operate in the correct manner. If this is the case, replace the API key for your own.
