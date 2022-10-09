@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Open the webpage via command `ng serve -o`, then type in the city of the place you want to check the weather for. This will make an API GET request and bring back the data related to the city.
 
 NOTE: As a developmental project, there is a limit to how many API GET requests can be made per month. If maxed out, the webpage will no longer operate in the correct manner. If this is the case, replace the API key for your own.
+
+![image](https://user-images.githubusercontent.com/109865132/194734573-ba822a3c-03fd-4a03-8650-97605cab1c72.png)
